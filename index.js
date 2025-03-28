@@ -1,5 +1,3 @@
-// Install dependencies: npm install express puppeteer axios dotenv
-
 const express = require('express');
 const puppeteer = require('puppeteer');
 const axios = require('axios');
